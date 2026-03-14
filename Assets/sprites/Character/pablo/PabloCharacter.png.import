@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://w5nog0iaut5y"
-path="res://.godot/imported/CharacterMain.png-c85865598ceb1e33cc40d5be50407f99.ctex"
+uid="uid://cakmacqqam8wp"
+path="res://.godot/imported/PabloCharacter.png-8e8752a85067a3a1a6391356d18ae21d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Character/CharacterMain.png"
-dest_files=["res://.godot/imported/CharacterMain.png-c85865598ceb1e33cc40d5be50407f99.ctex"]
+source_file="res://Assets/sprites/Character/pablo/PabloCharacter.png"
+dest_files=["res://.godot/imported/PabloCharacter.png-8e8752a85067a3a1a6391356d18ae21d.ctex"]
 
 [params]
 
